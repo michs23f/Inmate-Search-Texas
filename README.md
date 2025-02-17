@@ -27,7 +27,7 @@ We are always open to new feature ideas. If you have any suggestions, please cre
 
 ### Code of Conduct
 
-Please adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct when interacting with other contributors and the project maintainers.
+Please adhere to the code of conduct when interacting with other contributors and the project maintainers.
 
 ### Review Process
 
